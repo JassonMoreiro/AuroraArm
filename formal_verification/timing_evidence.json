@@ -1,0 +1,18 @@
+{
+  "provenance": "Values supplied by the student on 2026-10-17; certificates, raw logs, and measurement records have not been independently reviewed.",
+  "model": "supervisor.py::enumerate_deadline",
+  "combinations_checked": 126,
+  "digital_upper_bound_ms": 24.2,
+  "student_reported_sto_current_interruption_ms": 2.0,
+  "student_reported_brake_engagement_ms": 25.0,
+  "student_reported_braking_to_standstill_ms": 45.0,
+  "student_reported_physical_stop_total_ms": 72.0,
+  "total_upper_bound_ms": 96.2,
+  "deadline_ms": 100.0,
+  "arithmetic_margin_ms": 3.799999999999997,
+  "arithmetic_pass": true,
+  "student_reported_residual_current_threshold_a": 0.05,
+  "residual_motor_torque_nm": 0.00425,
+  "independently_verified": false,
+  "sto_certificate_attached": false
+}

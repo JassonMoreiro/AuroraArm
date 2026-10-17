@@ -1,0 +1,11 @@
+{
+  "compiler": "zig.exe",
+  "samples": 10000,
+  "max_absolute_error_v": 4.76837158203125e-06,
+  "float32_machine_epsilon": 1.1920928955078125e-07,
+  "max_output_magnitude_v": 16.47079849243164,
+  "scaled_tolerance_v_16eps": 3.1415554985869676e-05,
+  "error_in_machine_epsilons": 40.0,
+  "pass": true,
+  "scope": "C generated controller vs Python controller, identical float32 inputs"
+}
